@@ -7,7 +7,7 @@ spring:
           registration:
             google:
               client-id: 257573337494-0iobucqmlditfs3j5peas11g07bdolo4.apps.googleusercontent.com
-              client-secret: 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
+              client-secret: 
         resourceserver:
           jwt:
             issuer-uri: https://accounts.google.com
